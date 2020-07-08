@@ -1,0 +1,39 @@
+.brand{
+    width: 80px;
+}
+#branding h1, #branding h1 a:link, #branding h1 a:visited{
+    color: white;
+} 
+
+#header{
+    color: #ffffff;
+    background-color: #10284e;
+}
+#user-tools{
+    font-size: 15px;
+}
+#user-tools a:hover{
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+#user-tools a{
+    text-decoration: none;
+    color: white;
+}
+.module h2, .module caption, .inline-group h2 {
+    background-color:rgba(32, 134, 107, 0.8);
+}
+h1{
+    font-size: 22px;
+    font-weight: 400;
+}
+div.breadcrumbs{
+    background: rgba(32, 134, 107, 0.8);
+}
+input[type=submit].default, .submit-row input.default {
+    float: right;
+    border: none;
+    font-weight: 400;
+    background: #10284e;
+}

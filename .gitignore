@@ -1,0 +1,10 @@
+.log
+.pot
+.pyc
+.vscode
+/media
+/static
+venv
+local_settings.py
+db.sqlite3
+__pycache__/
