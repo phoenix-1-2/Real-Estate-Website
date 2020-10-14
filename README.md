@@ -15,11 +15,11 @@
 
 
 ## Features:
-• Responsive Real World Website \n
-• Log in, Logout and User Registration with authentication \n
-• Admin Panel for staff members to add realtors and property listings \n
-• Inquiry message for user to contact realtor of a property listing \n
-• Dashboard for users to check their inquiries \n
-• Seller of the month for popular relator \n
-• Featured listings based on date(newest first) with pagination \n
-• Search Area for filtering the property based on City, State, Bathrooms, Bedrooms, Price. \n
+• Responsive Real World Website <br />
+• Log in, Logout and User Registration with authentication <br />
+• Admin Panel for staff members to add realtors and property listings <br />
+• Inquiry message for user to contact realtor of a property listing <br />
+• Dashboard for users to check their inquiries <br />
+• Seller of the month for popular relator <br />
+• Featured listings based on date(newest first) with pagination <br />
+• Search Area for filtering the property based on City, State, Bathrooms, Bedrooms, Price.<br />
